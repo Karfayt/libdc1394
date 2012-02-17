@@ -46,7 +46,7 @@
 #include <signal.h>
 #define _LINUX_TIME_H
 #define _DEVICE_H_
-#include <linux/videodev.h>
+#include <libv4l1-videodev.h>
 #include <getopt.h>
 #include <stdint.h>
 #include <inttypes.h>
